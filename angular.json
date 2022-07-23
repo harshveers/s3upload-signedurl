@@ -28,7 +28,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/@uppy/core/dist/style.css",
+              "node_modules/@uppy/dashboard/dist/style.css"
             ],
             "scripts": []
           },
